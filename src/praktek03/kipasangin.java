@@ -5,4 +5,12 @@ String warna;
 String bentuk;
 double harga;
 
+
+void cetakInfo(){
+    System.out.println("merk\t:"+merk+"\n"+
+            "Warna \t       :"+warna+"\n"+
+            "Bentuk \t      :"+bentuk+"\n"+
+            "Harga \t       :"+harga);
+        
+}
 }
