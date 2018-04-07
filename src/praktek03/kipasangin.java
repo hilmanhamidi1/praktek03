@@ -1,9 +1,10 @@
 package praktek03;
 public class kipasangin {
-String merk;
-String warna;
-String bentuk;
-double harga;
+
+private String merk;
+private String warna;
+private String bentuk;
+private double harga;
 
 
 void cetakInfo(){
