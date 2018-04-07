@@ -5,4 +5,13 @@ public class ac extends kipasangin {
     void throttle(){
         System.out.println("NYAMAN");
     }    
+
+    public String getJenisac() {
+        return jenisac;
+    }
+
+    public void setJenisac(String jenisac) {
+        this.jenisac = jenisac;
+    }
+    
 }
